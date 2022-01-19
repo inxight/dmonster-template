@@ -1,0 +1,8 @@
+{
+	"name": "dmonster-react-native-template",
+	"version": "0.0.1",
+	"description": "React Native Template",
+	"repository": "https://github.com/RyuWoong/dmonster-template.git",
+	"author": "RyuWoong <wjdfbd1121@gmail.com>",
+	"license": "MIT"
+}
