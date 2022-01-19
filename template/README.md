@@ -3,9 +3,8 @@
 #### CreateAt 2022. 01. 19.
 
 ### 템플릿으로 시작하기.
-
 ```
-react-native init myApp --template https://github.com/RyuWoong/dmonster-template
+
 ```
 
 ### INFO
